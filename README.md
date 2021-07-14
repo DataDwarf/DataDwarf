@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PentaByte
+- 👋 Hi, I’m @DataDwarf
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects where I'll be alble to develop my data skills
